@@ -42,84 +42,90 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=60&section=header&text=🚀%20Currently%20Building&fontSize=24&fontAlign=50&fontAlignY=50&borderRadius=20"/>
-
+<br/>
 <br/>
 
-<table style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<table>
 <tr>
-<td width="140" align="center" valign="top" style="border-radius: 15px;">
-<img src="https://iili.io/qHX6gcv.md.png" width="140" alt="ADITYA AI" style="border-radius: 15px;"/>
+<td width="150" align="center">
+<img src="https://iili.io/qHX6gcv.md.png" width="140" alt="ADITYA AI"/>
 </td>
-<td valign="top">
+<td valign="middle">
+
 <h3>🟣 ADITYA – AI</h3>
 <p>
-🔮 <strong>Advanced AI Platform for Intelligent Solutions</strong><br/>
-🤖 Building next-gen AI agents & automation systems
+🔮 <strong>Advanced AI Platform for Academics</strong><br/>
+🤖 Building next-gen AI for Cognitive & Holistic Assesments
 </p>
 <p>
 <a href="https://aditya-ai.in">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-7B68EE?style=for-the-badge&logoColor=white&labelColor=6c5ce7" alt="Visit Website" style="border-radius: 10px;"/>
+<img src="https://img.shields.io/badge/🌐_Visit_Website-7B68EE?style=for-the-badge&logoColor=white&labelColor=6c5ce7"/>
 </a>
 </p>
 <p>
-<img src="https://img.shields.io/badge/AI-7B68EE?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
-<img src="https://img.shields.io/badge/ML-7B68EE?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
-<img src="https://img.shields.io/badge/NLP-7B68EE?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
+<img src="https://img.shields.io/badge/AI%20powered-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/holistic-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/assessment-7B68EE?style=for-the-badge"/>
 </p>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<table style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<table>
 <tr>
-<td width="140" align="center" valign="top" style="border-radius: 15px;">
-<img src="https://iili.io/qHX6UKJ.png" width="140" alt="CYBER EYE" style="border-radius: 15px;"/>
+<td width="150" align="center">
+<img src="https://iili.io/qHX6UKJ.png" width="140" alt="CYBER EYE"/>
 </td>
-<td valign="top">
+<td valign="middle">
+
 <h3>🔵 CYBER – EYE</h3>
 <p>
 🛡️ <strong>Advanced Cybersecurity & Threat Detection Platform</strong><br/>
-🔐 Real-time monitoring and security solutions
+🔐 Real-Time Monitoring and Security Solutions
 </p>
 <p>
 <a href="https://cyber-eye.in">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-4169E1?style=for-the-badge&logoColor=white&labelColor=5a7dee" alt="Visit Website" style="border-radius: 10px;"/>
+<img src="https://img.shields.io/badge/🌐_Visit_Website-4169E1?style=for-the-badge&logoColor=white&labelColor=5a7dee"/>
 </a>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Security-4169E1?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
-<img src="https://img.shields.io/badge/Monitoring-4169E1?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
-<img src="https://img.shields.io/badge/Detection-4169E1?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
+<img src="https://img.shields.io/badge/Security-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monitoring-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Detection-4169E1?style=for-the-badge"/>
 </p>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<table style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<table>
 <tr>
-<td width="140" align="center" valign="top" style="border-radius: 15px;">
-<img src="https://iili.io/qHXjpI4.md.png" width="140" alt="MediBrief" style="border-radius: 15px;"/>
+<td width="150" align="center">
+<img src="https://iili.io/qHXjpI4.md.png" width="140" alt="MediBrief"/>
 </td>
-<td valign="top">
+<td valign="middle">
+
 <h3>🟢 MediBrief</h3>
 <p>
-💊 <strong>Smart Healthcare Information Platform</strong><br/>
-📋 Streamlining medical documentation & insights
+💊 <strong>Smart Healthcare Management Platform</strong><br/>
+📋 Indexing Medical Records & Prescriptions for Accessibility
 </p>
 <p>
 <a href="https://medibrief.in">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-10B981?style=for-the-badge&logoColor=white&labelColor=00d4aa" alt="Visit Website" style="border-radius: 10px;"/>
+<img src="https://img.shields.io/badge/🌐_Visit_Website-10B981?style=for-the-badge&logoColor=white&labelColor=00d4aa"/>
 </a>
 </p>
 <p>
-<img src="https://img.shields.io/badge/Healthcare-10B981?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
-<img src="https://img.shields.io/badge/Medical_AI-10B981?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
-<img src="https://img.shields.io/badge/Data_Mgmt-10B981?style=for-the-badge&logoColor=white" style="border-radius: 8px;"/>
+<img src="https://img.shields.io/badge/Healthcare-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medical_AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Mgmt-10B981?style=for-the-badge"/>
 </p>
+
 </td>
 </tr>
 </table>
@@ -129,7 +135,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=60&section=header&text=💫%20About%20Me&fontSize=24&fontAlign=50&fontAlignY=50&borderRadius=20"/>
-
+<br/>
 <br/>
 
 <table style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -174,7 +180,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=60&section=header&text=🛠️%20Tech%20Arsenal&fontSize=24&fontAlign=50&fontAlignY=50&borderRadius=20"/>
-
+<br/>
 <br/>
 
 <table style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
@@ -258,14 +264,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=60&section=header&text=📊%20GitHub%20Analytics&fontSize=24&fontAlign=50&fontAlignY=50&borderRadius=20"/>
-
 <br/>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adisingh-cs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&border_radius=15" style="border-radius: 15px;"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisingh-cs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&border_radius=15" style="border-radius: 15px;"/>
-</p>
-
 <br/>
 
 <p align="center">
@@ -275,7 +274,7 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=60&section=header&text=📈%20Contribution%20Overview&fontSize=24&fontAlign=50&fontAlignY=50&borderRadius=20"/>
-
+<br/>
 <br/>
 
 <p align="center">
@@ -290,11 +289,5 @@
 </p>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-<p align="center">
-<strong>Made with ❤️ and lots of ☕ | © 2025 Aditya Singh</strong>
-</p>
 
 </div>
