@@ -48,6 +48,36 @@
 <table>
 <tr>
 <td width="150" align="center">
+<img src="https://i.ibb.co/B2WG9C6M/logo.png" width="140" alt="Orbit Research"/>
+</td>
+<td valign="middle">
+
+<h3>🔵 Orbit Research</h3>
+<p>
+🔬 <strong>Research Paper Formatting Tool</strong><br/>
+📄 Fomrat your research paper instantly !
+</p>
+<p>
+<a href="https://orbit-research.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Visit_Website-4169E1?style=for-the-badge&logoColor=white&labelColor=6c5ce7"/>
+</a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/AI%20powered-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research Paper-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Formatting Tool-4169E1?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+<table>
+<tr>
+<td width="150" align="center">
 <img src="https://iili.io/qHX6gcv.md.png" width="140" alt="ADITYA AI"/>
 </td>
 <td valign="middle">
