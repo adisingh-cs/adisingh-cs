@@ -74,6 +74,35 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="150" align="center">
+<img src="https://i.ibb.co/kVLZ0zfS/logo.webp" width="140" alt="Murdock"/>
+</td>
+<td valign="middle">
+
+<h3>⚫ Murdock</h3>
+<p>
+⚖️ <strong>Legal Infrastructure</strong><br/>
+📄 Making legal systems programmable !
+</p>
+<p>
+<a href="https://murdock-v1.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Visit_Website-4169E1?style=for-the-badge&logoColor=white&labelColor=6c5ce7"/>
+</a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Legal%20-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Formatting Tool-4169E1?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 
 <table>
 <tr>
