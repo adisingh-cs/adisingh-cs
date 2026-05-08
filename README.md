@@ -229,7 +229,7 @@
   <a href="https://eternals-hub.netlify.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio" style="border-radius: 10px;"/>
   </a>
-  <a href="https://jumpshare.com/share/FtzmeNgw1KSIfQFRLDT7">
+  <a href="https://drive.google.com/file/d/1USibAFuvTheEF0Eno2r7WOckS0G-lVF4/view?usp=drive_link">
     <img src="https://img.shields.io/badge/📄_Resume-FF6B6B?style=for-the-badge&logoColor=white" alt="Resume" style="border-radius: 10px;"/>
   </a>
 </p>
