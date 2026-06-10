@@ -175,7 +175,7 @@
 📋 Indexing Medical Records & Prescriptions for Accessibility
 </p>
 <p>
-<a href="https://medibrief.in">
+<a href="https://medibrief-v2.netlify.app/">
 <img src="https://img.shields.io/badge/🌐_Visit_Website-10B981?style=for-the-badge&logoColor=white&labelColor=00d4aa"/>
 </a>
 </p>
