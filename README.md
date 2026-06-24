@@ -45,6 +45,36 @@
 <br/>
 <br/>
 
+
+
+<table>
+<tr>
+<td width="150" align="center">
+<img src="https://iili.io/qHXjpI4.md.png" width="140" alt="MediBrief"/>
+</td>
+<td valign="middle">
+
+<h3>🟢 MediBrief</h3>
+<p>
+💊 <strong>Smart Healthcare Management Platform</strong><br/>
+📋 Indexing Medical Records & Prescriptions for Accessibility
+</p>
+<p>
+<a href="https://medibrief.in/">
+<img src="https://img.shields.io/badge/🌐_Visit_Website-10B981?style=for-the-badge&logoColor=white&labelColor=00d4aa"/>
+</a>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Healthcare-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Medical_AI-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Mgmt-10B981?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+
 <table>
 <tr>
 <td width="150" align="center">
@@ -162,32 +192,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="150" align="center">
-<img src="https://iili.io/qHXjpI4.md.png" width="140" alt="MediBrief"/>
-</td>
-<td valign="middle">
-
-<h3>🟢 MediBrief</h3>
-<p>
-💊 <strong>Smart Healthcare Management Platform</strong><br/>
-📋 Indexing Medical Records & Prescriptions for Accessibility
-</p>
-<p>
-<a href="https://medibrief-v2.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-10B981?style=for-the-badge&logoColor=white&labelColor=00d4aa"/>
-</a>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Healthcare-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Medical_AI-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Mgmt-10B981?style=for-the-badge"/>
-</p>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
