@@ -84,18 +84,18 @@
 
 <h3>🔵 Orbit Research</h3>
 <p>
-🔬 <strong>Research Paper Formatting Tool</strong><br/>
+🔬 <strong>Research Publishing Pipeline</strong><br/>
 📄 Fomrat your research paper instantly !
 </p>
 <p>
-<a href="https://orbit-research.netlify.app/">
+<a href="https://orbit-research.app/">
 <img src="https://img.shields.io/badge/🌐_Visit_Website-4169E1?style=for-the-badge&logoColor=white&labelColor=6c5ce7"/>
 </a>
 </p>
 <p>
 <img src="https://img.shields.io/badge/AI%20powered-4169E1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Research Paper-4169E1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Formatting Tool-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pipeline-4169E1?style=for-the-badge"/>
 </p>
 
 </td>
